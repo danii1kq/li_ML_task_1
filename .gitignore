@@ -1,0 +1,4 @@
+# .gitignore
+.DS_Store
+.lastname_ML_task_1/
+.ipynb_checkpoints/
